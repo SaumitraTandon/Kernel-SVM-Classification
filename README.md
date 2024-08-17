@@ -1,6 +1,6 @@
 # Kernel SVM
 
-This repository contains code for implementing the Kernel Support Vector Machine (SVM) algorithm on a dataset of customer information for a social network ad. The code is written in Python and uses the scikit-learn library.
+This repository contains code for implementing the Kernel Support Vector Machine (SVM) algorithm on a dataset of customer information for a social network ad. The code is written in Python & R and uses the scikit-learn library.
 
 ## Code Explanation
 
